@@ -2,7 +2,7 @@
   "name": "templates-electron-react",
   "version": "1.0.0",
   "description": "Basic Structure of electronjs app",
-  "main": "server.js",
+  "main": "src/server.js",
   "private": true,
   "scripts": {
     "start": "electron .",
