@@ -1,5 +1,5 @@
 {
-  "name": "templates-electronjs",
+  "name": "templates-electron-react",
   "version": "1.0.0",
   "description": "Basic Structure of electronjs app",
   "main": "server.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fahidnasir/templates-electronjs.git"
+    "url": "https://github.com/fahidnasir/templates-electron-react.git"
   },
   "keywords": [
     "nodejs",
@@ -21,10 +21,17 @@
   "author": "Fahid <fahidnasir@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fahidnasir/templates-electronjs/issues"
+    "url": "https://github.com/fahidnasir/templates-electron-react/issues"
   },
-  "homepage": "https://github.com/fahidnasir/templates-electronjs#readme",
+  "homepage": "https://github.com/fahidnasir/templates-electron-react#readme",
   "devDependencies": {
-    "electron": "^1.6.11"
+    "babel-preset-es2016-node5": "^1.1.2",
+    "babel-preset-react": "^6.24.1",
+    "electron-prebuilt-compile": "^1.6.11"
+  },
+  "dependencies": {
+    "pug": "^2.0.0-rc.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   }
 }
