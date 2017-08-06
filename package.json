@@ -1,0 +1,30 @@
+{
+  "name": "templates-electronjs",
+  "version": "1.0.0",
+  "description": "Basic Structure of electronjs app",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "test": "node scripts/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fahidnasir/templates-electronjs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "electronjs",
+    "npm",
+    "template"
+  ],
+  "author": "Fahid <fahidnasir@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fahidnasir/templates-electronjs/issues"
+  },
+  "homepage": "https://github.com/fahidnasir/templates-electronjs#readme",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
