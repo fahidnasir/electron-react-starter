@@ -1,4 +1,4 @@
-# templates-electron-react
+# electron-react-starter
 Electron app with React and babel configuration
 
 ### Project Core is based on [templates-electronjs](https://github.com/fahidnasir/templates-electronjs)
